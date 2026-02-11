@@ -1,0 +1,9 @@
+.nav{
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(pink,skyblue);
+}
+.head1{
+    color: cyan;
+}
