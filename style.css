@@ -1,4 +1,5 @@
 .nav{
+    text-align: center;
     border: 2px solid black;
     height: 100px;
     width: 100%;
@@ -6,4 +7,5 @@
 }
 .head1{
     color: cyan;
+transition: first 3s ease;
 }
