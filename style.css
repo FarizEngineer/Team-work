@@ -11,7 +11,8 @@ transition: first 3s ease, opacity 3s ease;
 }
 .head1:hover{
    
-         transform: translateY(8px) ;
+         transform: translateY(8px) 
+         ;
          opacity: 1;
 
 }
